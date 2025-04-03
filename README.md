@@ -38,7 +38,7 @@ Game: You got it in 3 attempts!
 ## Installation and Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/secret-number-game.git
+   git clone https://github.com/dharitcha/js-secret-number-game.git
    ```
 2. Open `index.html` in a web browser.
 3. Guess the number and enjoy the game!
